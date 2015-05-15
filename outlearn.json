@@ -10,11 +10,10 @@
       "privacy" : "public",
       "pages" : [
         {"title" : "Welcome", "content" : "./context-pages/welcome.md"},
-        {"module" : "outlearn://lukehoban/es6features"},
-        {"module" : "outlearn://babeljs/es6-repl"},
-        {"title" : "What's That Got to Do with VideoJS?", "content" : "./context-pages/relation-to-videojs.md"},
         {"module" : "outlearn://lukehoban/selections-for-videojs"},
         {"module" : "outlearn://mdn/es6-classes"},
+        {"module" : "outlearn://babeljs/es6-repl"},
+        {"module" : "outlearn://lukehoban/es6features"},
         {"title" : "Ready to try it out", "content" : "./context-pages/try-it.md"},
         {"module" : "lab"},
         {"title" : "Live long and prosper", "content" : "./context-pages/live-long.md"}
