@@ -11,12 +11,10 @@
       "pages" : [
         {"title" : "Welcome", "content" : "./context-pages/welcome.md"},
         {"module" : "outlearn://lukehoban/es6features"},
-        {"module" : "outlearn://babeljs/repl"},
-        {"title" : "Optional: Dig Deeper into ES6", "content" : "./context-pages/dig-deeper.md"},
-        {"module" : "outlearn://nicholaszakas/understanding-es6"},
+        {"module" : "outlearn://babeljs/es6-repl"},
         {"title" : "What's That Got to Do with VideoJS?", "content" : "./context-pages/relation-to-videojs.md"},
-        {"module" : "outlearn://babeljs/selections-for-videojs"},
-        {"module" : "outlearn://mdn/classes"},
+        {"module" : "outlearn://lukehoban/selections-for-videojs"},
+        {"module" : "outlearn://mdn/es6-classes"},
         {"title" : "Ready to try it out", "content" : "./context-pages/try-it.md"},
         {"module" : "lab"},
         {"title" : "Live long and prosper", "content" : "./context-pages/live-long.md"}
