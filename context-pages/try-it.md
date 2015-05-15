@@ -1,5 +1,3 @@
-So how are you feeling? Ready to try your newly acquired Riak chops in a test environment that closely mirrors our production setup? You'll have some real data and can see some of the code we use to make Riak sing at Chartbeat. I hope you'll have fun playing around with things. You should also convincing yourself that you really understood what you were learning.
+So how are you feeling? Ready to try your newly acquired ES6 chops with VideoJS. The following module shows you how to apply what you've been learning. This where rubber really hits to road so make sure you understand what you're reading and are able to complete the assignments.
 
-Go right ahead and try if you can break something and then see how to fix it :).
-
-Nathan
+Matt, Steve
