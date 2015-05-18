@@ -9,14 +9,14 @@
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/videojs/master/assets/videojslogo.png",
       "privacy" : "public",
       "pages" : [
-        {"title" : "Welcome", "content" : "./context-pages/welcome.md"},
+        {"page" : "./context-pages/welcome.md"},
         {"module" : "outlearn://lukehoban/selections-for-videojs"},
         {"module" : "outlearn://mdn/es6-classes"},
         {"module" : "outlearn://babeljs/es6-repl"},
         {"module" : "outlearn://lukehoban/es6features"},
-        {"title" : "Ready to try it out", "content" : "./context-pages/try-it.md"},
+        {"page" : "./context-pages/try-it.md"},
         {"module" : "lab"},
-        {"title" : "Live long and prosper", "content" : "./context-pages/live-long.md"}
+        {"page" : "./context-pages/live-long.md"}
       ]
     }
   ],

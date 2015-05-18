@@ -1,3 +1,4 @@
+# Welcome
 
 Hi folks.  Welcome to our path "Get Going with ES6 in VideoJS"
 

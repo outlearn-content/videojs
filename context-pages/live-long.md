@@ -1,3 +1,4 @@
+# Live long and prosper
 
 Thanks for taking the path.  Hope you learned useful things and had fun.  Now go forth with VideoJS!
 
