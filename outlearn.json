@@ -15,7 +15,7 @@
         {"module" : "outlearn://babeljs/es6-repl"},
         {"module" : "outlearn://lukehoban/es6features"},
         {"page" : "./context-pages/try-it.md"},
-        {"module" : "lab"},
+        {"module" : "outlearn://videojs/lab"},
         {"page" : "./context-pages/live-long.md"}
       ]
     }
