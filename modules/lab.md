@@ -4,6 +4,7 @@ version : "0.1"
 title : "Lab Assignment"
 description: "Get learners using VideoJS"
 coverImage : "http://www.publicdomainpictures.net/pictures/100000/nahled/vhs-tape.jpg"
+freshnessDate : 2015-06-01
 license : "CC Attribution-ShareAlike 4.0"
 -->
 
