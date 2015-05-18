@@ -11,6 +11,7 @@
       "pages" : [
         {"page" : "./context-pages/welcome.md"},
         {"module" : "outlearn://lukehoban/selections-for-videojs"},
+        {"module" : "outlearn://babeljs/modules"},
         {"module" : "outlearn://mdn/es6-classes"},
         {"module" : "outlearn://babeljs/es6-repl"},
         {"module" : "outlearn://lukehoban/es6features"},
