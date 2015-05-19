@@ -10,7 +10,7 @@
       "privacy" : "public",
       "pages" : [
         {"page" : "./context-pages/welcome.md"},
-        {"module" : "basho/querying-python"},
+        {"module" : "lukehoban/selections-for-videojs"},
         {"page" : "./context-pages/try-it.md"},
         {"module" : "lab"},
         {"page" : "./context-pages/live-long.md"}
