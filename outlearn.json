@@ -10,9 +10,9 @@
       "privacy" : "public",
       "pages" : [
         {"page" : "./context-pages/welcome.md"},
-        {"module" : "outlearn://lukehoban/selections-for-videojs"},
-        {"module" : "outlearn://babeljs/modules"},
-        {"module" : "outlearn://mdn/es6-classes"}
+        {"module" : "lukehoban/selections-for-videojs"},
+        {"module" : "babeljs/modules"},
+        {"module" : "mdn/es6-classes"}
       ]
     }
   ],
