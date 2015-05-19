@@ -9,7 +9,10 @@
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/videojs/master/assets/videojslogo.png",
       "privacy" : "public",
       "pages" : [
-        {"page" : "./context-pages/welcome.md"}
+        {"page" : "./context-pages/welcome.md"},
+        {"module" : "outlearn://lukehoban/selections-for-videojs"},
+        {"module" : "outlearn://babeljs/modules"},
+        {"module" : "outlearn://mdn/es6-classes"}
       ]
     }
   ],
