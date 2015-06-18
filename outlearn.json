@@ -6,7 +6,7 @@
       "name" : "videojs",
       "title" : "Get Going with ES6 in VideoJS",
       "description" : "An introduction to new ES6 features in VideoJS",
-      "coverImage" : "http://www.publicdomainpictures.net/pictures/60000/velka/old-camera-1379445539HQh.jpg",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/videojs/master/assets/old-camera.jpg",
       "privacy" : "public",
       "pages" : [
         {"page" : "./context-pages/welcome.md"},
