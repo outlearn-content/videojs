@@ -12,7 +12,7 @@
         {"page" : "./context-pages/welcome.md"},
         {"module" : "lukehoban/selections-for-videojs"},
         {"module" : "babeljs/modules"},
-        {"module" : "mdn/es6-classes"},
+        {"module" : "mozilla-developer-network/es6-classes"},
         {"module" : "babeljs/es6-repl"},
         {"module" : "lukehoban/es6features"},
         {"page" : "./context-pages/try-it.md"},
